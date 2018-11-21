@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 17.09.2018 14:32
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.44
+WORDPRESS:	4.9.8
+PHP INFO:	5.5.38 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 23MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180917_agency_e6e262e722f1bc294458180917143149_database.sql 
+SQL FILE SIZE: 399.94KB (409535) 
+SQL FILE TIME: 2018-09-17 14:32:01 
+SQL RUNTIME: 1.08 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  W:/domains/test 
+ARCHIVE FILE: 20180917_agency_e6e262e722f1bc294458180917143149_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	30.83MB 
+STATS:	Dirs 180 | Files 1,676 
+SQL ADDED: 20180917_agency_e6e262e722f1bc294458180917143149_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1856
+    [filename] => W:\domains\test\wp-snapshots\tmp\20180917_agency_e6e262e722f1bc294458180917143149_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 10.77MB 
+ARCHIVE RUNTIME: 14.09 sec. 
+MEMORY STACK: 23.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [W:/domains/test/wp-snapshots/tmp/20180917_agency_e6e262e722f1bc294458180917143149_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 399.94KB 
+Installer File: 472.79KB 
+Archive File: 10.77MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 15.38 sec.
+PEAK PHP MEMORY USED: 26.25MB
+DONE PROCESSING => 20180917_agency 17.09.2018 14:32
+ 
